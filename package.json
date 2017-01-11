@@ -1,0 +1,24 @@
+{
+  "name": "trash",
+  "version": "1.0.0",
+  "description": "Heroku thing",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thebearingedge/tbe-trash.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thebearingedge/tbe-trash/issues"
+  },
+  "homepage": "https://github.com/thebearingedge/tbe-trash#readme",
+  "dependencies": {
+    "express": "4.14.0"
+  }
+}
